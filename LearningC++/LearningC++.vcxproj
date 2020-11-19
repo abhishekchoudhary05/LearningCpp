@@ -138,6 +138,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BinaryTree.cpp" />
     <ClCompile Include="BooleanMatrix.cpp" />
     <ClCompile Include="Encryption.cpp" />
     <ClCompile Include="HeapSort.cpp" />
